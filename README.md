@@ -1,2 +1,2 @@
 # instacart-basket-analysis
-An analysis of instacart user data
+Instacart is an American company that offers grocery delivery and pick-up services within the United States and Canada. Users can order groceries from their favorite market via their website or an app and have the groceries delivered to their door. In this project, I will perform exploratory analysis of some of Instacart's data in order to draw insights and suggest strategies to better improve their marketing strategy. 
